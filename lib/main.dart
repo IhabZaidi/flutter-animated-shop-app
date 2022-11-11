@@ -1,8 +1,8 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
+import 'package:flutteranimation/widgets/text_widget.dart';
 
-import 'package:clipexample/widgets/text_widget.dart';
 
 void main() {
   runApp(const MyApp());
